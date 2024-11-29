@@ -3,7 +3,7 @@ import React from "react";
 import blogImg1 from "../assets/images/blog/blogImg1.webp";
 import blogImg2 from "../assets/images/blog/blogImg2.webp";
 import blogImg3 from "../assets/images/blog/blogImg3.webp";
-import blogImg4 from "../assets/images/blog/monitors.webp";
+import blogImg4 from "../assets/images/blog/monitors.jpg";
 import { LiaArrowDownSolid } from "react-icons/lia";
 import { motion } from "framer-motion";
 import Image from "next/image";
