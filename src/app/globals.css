@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: "Syne";
+  src: url("./fonts/Syne-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("./fonts/OpenSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.syne-regular {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.syne-medium {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.syne-semibold {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.syne-bold {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.syne-extrabold {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.syne-black {
+  font-family: "Syne", "Syne Placeholder", sans-serif;
+  font-weight: 900;
+  font-style: "normal";
+}
+
+.open-regular {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.open-medium {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.open-semibold {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.open-bold {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.open-extrabold {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.open-black {
+  font-family: "Open Sans", "Open Sans Placeholder", sans-serif;
+  font-weight: 900;
+  font-style: "normal";
+}
